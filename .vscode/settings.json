@@ -1,0 +1,6 @@
+{
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "html.autoClosingTags": false,
+    "javascript.autoClosingTags": false
+}
